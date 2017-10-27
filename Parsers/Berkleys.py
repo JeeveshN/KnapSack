@@ -1,6 +1,7 @@
 from bs4 import BeautifulSoup
 import requests
 import time
+import re 
 
 BASE_URL = "https://www2.eecs.berkeley.edu/Courses/CS/?_ga=2.44961508.1522982388.1509131899-838894781.1509131899"
 COURSES = []
@@ -11,7 +12,11 @@ def get_courses():
 	content = soup.find("div","content")
 	course_li = content.find_all("li")
 	for course in course_li:
-		COURSES.append(course.contents[1].string)
+		try:
+			COURSES.append(re.findall(r"\. (.*)",course.contents[1].string)[0])
+		except:
+			pass
+
 	with open('Berkley.txt','w')as f:f.write("\n".join(COURSES).strip('\n'))
 
 

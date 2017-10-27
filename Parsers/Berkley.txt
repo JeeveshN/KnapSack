@@ -1,0 +1,177 @@
+Foundations of Data Science
+Introduction to Computational Thinking with Data
+Matlab for Programmers
+C for Programmers
+Scheme and Functional Programming for Programmers
+Productive Use of the UNIX Environment
+C++ for Programmers
+JAVA for Programmers
+Python for Programmers
+The Beauty and Joy of Computing
+The Beauty and Joy of Computing
+Berkeley Through the Lens
+CS Scholars Seminar (61A)
+CS Scholars Seminar: The Educational Climate in CS & CS61A technical discussions
+Freshman/Sophomore Seminar
+Symmetry and Topology
+Freshman/Sophomore Seminar
+Freshman/Sophomore Seminar
+Freshman/Sophomore Seminar
+Freshman/Sophomore Seminar
+Freshman/Sophomore Seminar
+Freshman/Sophomore Seminar
+Freshman/Sophomore Seminar
+Completion of Work in Computer Science 61A
+Completion of Work in Computer Science 61B
+Completion of Work in Computer Science 61C
+The Structure and Interpretation of Computer Programs
+The Structure and Interpretation of Computer Programs (Self-Paced)
+The Structure and Interpretation of Computer Programs  (Online)
+Data Structures
+Data Structures
+Machine Structures
+Machine Structures
+Discrete Mathematics and Probability Theory
+Computational Structures in Data Science
+Special Topics
+Field Study
+Directed Group Study
+Individual Study and Research for Undergraduates
+Principles & Techniques of Data Science
+Programmable Digital Systems Laboratory
+Computer Architecture and Engineering
+User Interface Design and Development
+Computer Security
+Operating Systems and System Programming
+Programming Languages and Compilers
+Introduction to the Internet: Architecture and Protocols
+Software Engineering
+Efficient Algorithms and Intractable Problems
+Computability and Complexity
+Combinatorics and Discrete Probability
+Algorithms for Computational Biology
+Foundations of Computer Graphics
+Introduction to Database Systems
+Introduction to Artificial Intelligence
+Introduction to Machine Learning
+Quantum Information Science and Technology
+Special Topics
+Image Manipulation and Computational Photography
+Computational Design and Fabrication
+Computing for Social Good
+Designing, Visualizing and Understanding Deep Neural Networks
+Cyberwar
+Social Implications of Computer Technology
+Honors Social Implications of Computer Technology
+Senior Honors Thesis Research
+Senior Honors Thesis Research
+Field Study
+Peer Advising Skills Development
+Directed Group Studies for Advanced Undergraduates
+iOS DeCal
+GamesCrafters
+UCBUGG: 3D Modeling and Animation DeCal
+UNIX System Administration DeCal
+Free Ventures DeCal
+Ruby on Rails DeCal
+Introduction to Teaching Computer Science
+3D Printing and Design DeCal
+CS Scholars Group Study (61B)
+CS Scholars Group Study (70)
+Going Down the EECS Stack DeCal
+Decal: ANova Mentoring Youth in Computer Science
+DeCal: How to Build the Future
+Game Design and Development Decal
+Blockchain for Developers DeCal
+Blockchain Fundamentals DeCal
+The Poetry of Computer Science, The Computer Science of Poetry: Philosophy of Computation DeCal
+Virtual Reality DeCal
+Settlers of Catan DeCal
+Teaching Data Science-Connectors DeCal
+Teaching Data Science-Modules DeCal
+Data 8 Scholars Seminar
+Data Pathways Seminar
+Supervised Independent Study
+Introduction to Embedded Systems
+VLSI Systems Design
+Graduate Computer Architecture
+User Interface Design and Development
+Human-Computer Interaction Research
+Security in Computer Systems
+Internet and Network Security
+Advanced Topics in Computer Systems
+Advanced Topics in Computer Systems
+Design of Programming Languages
+Implementation of Programming Languages
+Compiler Optimization and Code Generation
+Applications of Parallel Computers
+Applications of Parallel Computers
+Computer Networks
+Combinatorial Algorithms and Data Structures
+Randomness and Computation
+Foundations of Parallel Computation
+Computational Geometry
+Cryptography
+Computer Vision
+Statistical Learning Theory
+Advanced Topics in Learning and Decision Making
+Foundations of Computer Graphics
+Advanced Computer Graphics Algorithms and Techniques
+Introduction to Database Systems
+Implementation of Data Base Systems
+Advanced Robotics
+Natural Language Processing
+Introduction to Machine Learning
+Special Topics
+Visual Object and Activity Recognition
+Software Engineering for Scientific Computing
+Interactive Device Design
+Deep Reinforcement Learning
+Algorithmic Human-Robot Interaction
+Computational Design and Fabrication
+Computational Imaging
+Designing, Visualizing and Understanding Deep Neural Networks
+Special Topics in Deep Learning
+Beyond Worst Case Analsysis
+Advanced Cryptography
+Deep Time-Series Learning and Finance Applications
+Theory and Applications of Virtual Reality and Immersive Computing
+Cyberwar
+Fairness in Machine Learning
+Coding Theory
+Compilers for Everyone: Designing and Building Domain-Specific Languages
+Talking to Robots
+The Design, Evaluation, and Implementation of Modern Warehouse Scale Computers
+Embedded Networked Systems for Internet of Things
+Blockchain, CryptoEconomics, and the Future Directions of Technology, Business, and Law
+Approximation Algorithms
+Field Studies in Computer Science
+Group Studies Seminars, or Group Research
+Theory Seminar
+EECS Colloquium
+LA PACK Seminar
+BAIR First-year Proseminar
+Digital Fabrication Everywhere
+Individual Research
+Teaching Practice
+Designing Computer Science Education
+Teaching Techniques for Computer Science
+Professional Preparation: Supervised Teaching of Computer Science
+Individual Study for Doctoral Students
+Completion of work in Electrical Engineering 16A
+Completion of work in Electrical Engineering 16B
+Completion of work in Computer Science 70
+Introduction to Robotics
+Robotic Manipulation and Interaction
+Probability and Random Processes
+Optimization Models in Engineering
+Introduction to Embedded Systems
+Introduction to Digital Design and Integrated Circuits
+Introduction to Digital Design and Integrated Circuits Lab
+Introduction to Digital Design and Integrated Circuits Lab
+Introduction to Robotics
+Robotic Manipulation and Interaction
+Optimization Models in Engineering
+Introduction to Digital Design and Integrated Circuits
+Introduction to Digital Design and Integrated Circuits Lab
+Introduction to Digital Design and Integrated Circuits Lab
