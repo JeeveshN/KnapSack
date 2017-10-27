@@ -1,0 +1,24 @@
+Python
+Data Science
+Computation Structures
+Algorithms
+Inference
+Fundamentals of Programming
+Software Construction
+Computer System
+Artificial Intelligence
+Computer Language
+Machine Learning
+Structure and Interpretation of Computer Programs
+Probability
+Mathematics
+Automata
+Algorithms
+Information 
+Entropy 
+Computation
+MATLAB
+Networks
+Optimization
+Dynamic Programming
+Stochastic Control
