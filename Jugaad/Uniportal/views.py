@@ -14,4 +14,4 @@ def analyse(request):
 	if request.method == "POST":
 		raw_data = request.POST["message"]
 		courses = raw_data.split("\n")
-		print courses
+		print (courses)

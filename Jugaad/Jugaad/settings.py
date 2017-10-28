@@ -119,6 +119,5 @@ USE_TZ = True
 STATICFILES_DIRS = [
     os.path.join(BASE_DIR, "/Uniportal/static"),
 ]
-print BASE_DIR
 
 STATIC_URL = '/static/'
