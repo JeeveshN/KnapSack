@@ -1,0 +1,51 @@
+Applied Mathematics - I 
+Applied Physics-I
+Applied Chemistry
+Elements of Mechanical Engineering
+Introduction to Computers &Programming in C
+Communication Skills
+Applied Mathematics - II
+Applied Physics-II
+Environmental Sciences
+Electrical Science
+Engineering Mechanics
+Communication Skills - II
+Discrete Mathematics
+Database Management Systems
+Data Structure
+Object Oriented Programming
+Analog & Digital Electronics
+Advance Engineering Mathematics
+Computer Organization & Architecture
+Analysis & Design of Algorithms
+Operating System
+Object Oriented Software Engineering
+Theory of Computation
+Computer Graphics & Multimedia
+Microprocessor & Microcontroller
+Data Communication & Computer Networks
+Data Warehousing & Data Mining
+Human Values & Professional Ethics
+Mobile Architecture & Programming
+Compiler Design
+Network Programming
+Cloud Computing
+Artificial Intelligence
+Engineering Economics
+Advance Computer Architecture
+Mobile Computing
+Software Testing
+Wireless Communication
+Big Data Analytics
+Soft Computing
+Process Improvement Techniques
+Financial Accounting
+Embedded Systems & Design
+Network Security Management
+Real Time Systems
+Natural Language Processing
+Advanced Database Management Systems
+Wireless Sensor Networks
+IPR & Cyber Laws
+Business Entrepreneurship
+Organisational Behaviour

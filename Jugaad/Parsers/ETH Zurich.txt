@@ -1,0 +1,17 @@
+Introduction to programming
+Data structures and algorithms
+Linear algebra
+Discrete mathematics
+Parallel programming
+Algorithms and probability
+Design of Digital Circuits
+Theoretical computer science
+Systems programming and computer architecture
+Numerical methods for computational science and engineering
+Minor & Science in perspective
+Probability and statistics
+Networks
+Data modeling and databases
+Formal methods and functional programming
+Minor & Science in perspective
+Bachelor‘s thesis

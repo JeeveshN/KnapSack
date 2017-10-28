@@ -1,0 +1,19 @@
+Introduction to programming
+Data structures
+Algorithms
+Linear algebra
+Discrete mathematics
+Parallel programming
+Digital Circuits
+Theoretical computer science
+Systems programming
+Computer architecture
+Numerical methods
+Probability
+statistics
+Networks
+Data modeling
+Databases
+Formal methods
+Functional programming
+Thesis

@@ -1,0 +1,59 @@
+Data Science
+Matlab
+C
+Functional Programming
+UNIX
+C++
+JAVA
+Python
+Symmetry and Topology
+Data Structures
+Machine Structures
+Discrete Mathematics
+Probability Theory
+Computational Structures
+Computer Architecture
+Computer Security
+Operating Systems
+System Programming
+Compilers
+Introduction to the Internet
+Software Engineering
+Efficient Algorithms and Intractable Problems
+Computability and Complexity
+Combinatorics
+Discrete Probability
+Computer Graphics
+Database Systems
+Artificial Intelligence
+AI
+Machine Learning
+Quantum Information Science and Technology
+Image Manipulation
+Computational Photography
+Computational Design
+Deep Neural Networks
+3D Modeling and Animation DeCal
+UNIX System Administration DeCal
+Ruby on Rails
+Game Design
+Blockchain
+Virtual Reality
+Embedded Systems
+Internet and Network Security
+Design of Programming Languages
+Implementation of Programming Languages
+Compiler Optimization and Code Generation
+Parallel Computers
+Computer Networks
+Randomness and Computation
+Computational Geometry
+Cryptography
+Computer Vision
+Statistical Learning Theory
+Decision Making
+Natural Language Processing
+Deep Reinforcement Learning
+Computational Imaging
+Coding Theory
+CryptoEconomics
